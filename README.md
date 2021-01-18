@@ -1,2 +1,2 @@
-# My-React-App
+# React-App
 Created with CodeSandbox
